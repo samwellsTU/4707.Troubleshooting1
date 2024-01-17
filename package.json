@@ -1,0 +1,14 @@
+{
+  "name": "4707.troubleshooting1",
+  "version": "1.0.0",
+  "description": "MUST 4707 Troubleshooting 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
